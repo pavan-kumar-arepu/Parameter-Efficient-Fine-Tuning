@@ -1,4 +1,4 @@
-# Parameter-Efficient Fine-Tuning (Assignment)
+# Parameter-Efficient Fine-Tuning
 
 This repository contains code and data for the assignment on Parameter-Efficient Fine-Tuning.
 
@@ -25,5 +25,23 @@ Notes
 - This repo includes pre-prepared LoRA checkpoints under `Banking-Data/output/checkpoints/`.
 - Update `Banking-Data/README.md` or the assignment scripts for dataset-specific instructions.
 
-License
-- See `SUBMISSION_CHECKLIST.txt` for assignment submission details.
+## Architecture & Purpose
+
+### Purpose
+- Demonstrate parameter-efficient fine-tuning for instruction-following banking data using LoRA adapters.
+- Keep compute and storage costs low by training small adapter weights instead of full model weights.
+- Provide reproducible scripts, checkpoints, and evaluation for interview discussion and demos.
+
+### Architecture (high-level)
+This project follows a straightforward data-to-deployment pipeline:
+
+- Data ingestion and cleaning -> dataset splits -> training with LoRA adapters on a base LM -> checkpointing -> evaluation and reporting.
+
+See `docs/architecture.mmd` for a simple diagram you can show in interviews.
+
+### Interview talking points
+- Explain why LoRA reduces trainable parameters and speeds up iteration.
+- Describe dataset preparation choices and evaluation metrics used in `Banking-Data/scripts`.
+- Point to `Banking-Data/output/checkpoints` to show real adapter checkpoints and explain how they attach to the base model at inference.
+
+

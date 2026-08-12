@@ -1,0 +1,25 @@
+flowchart LR
+  subgraph DataPrep [Data Preparation]
+    A[Raw Banking Instructions JSON] --> B[Cleaning & Tokenization]
+    B --> C[Train / Validation / Test Splits]
+  end
+
+  subgraph Training [Model + Training]
+    D[Base Language Model] --> E[LoRA Adapter Parameters]
+    C --> F[Training Loop - LoRA]
+    F --> E
+    E --> G[Saved Checkpoints - safetensors]
+  end
+
+  subgraph Evaluation [Evaluation & Reporting]
+    G --> H[Evaluation Scripts]
+    H --> I[Metrics & Reports]
+  end
+
+  subgraph Inference [Inference / Deployment]
+    D --- E
+    E --> J[Prompting / Serving - attach adapters at runtime]
+  end
+
+  classDef box stroke:#333,stroke-width:1px,fill:#f9f9f9
+  class A,B,C,D,E,F,G,H,I,J box

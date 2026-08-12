@@ -58,4 +58,11 @@ See `docs/architecture.mmd` for a simple diagram you can show in interviews.
 
 Use this mapping in interviews to point directly to code and artifacts when describing each pipeline stage.
 
+### Pipeline diagram image
+An illustrated pipeline image is included for quick reference during interviews:
+
+![LoRA Finetune Pipeline](docs/lora_finetune_pipeline.png)
+
+The image file is `docs/lora_finetune_pipeline.png` — open it to show a visual flow of the data cleaning, training (LoRA adapters), checkpointing, and evaluation steps.
+
 

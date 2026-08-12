@@ -44,4 +44,18 @@ See `docs/architecture.mmd` for a simple diagram you can show in interviews.
 - Describe dataset preparation choices and evaluation metrics used in `Banking-Data/scripts`.
 - Point to `Banking-Data/output/checkpoints` to show real adapter checkpoints and explain how they attach to the base model at inference.
 
+### Architecture mapping (diagram -> repo)
+- **Raw Banking Instructions JSON**: source data files: `Banking-Data/banking_instruction_dataset_480.json` and the batch files under `Banking-Data/sets/`.
+- **Cleaning & Tokenization**: implemented by `Banking-Data/task1_pipeline.py` and helper `Banking-Data/merge_json.py` which normalize and prepare examples.
+- **Train / Validation / Test Splits**: output split files in `Banking-Data/output/` (`train.json`, `validation.json`, `test.json`).
+- **Base Language Model**: the pretrained model used at training time (configured/loaded in `Banking-Data/scripts/train_lora.py`).
+- **LoRA Adapter Parameters**: adapter weights produced and stored under `Banking-Data/output/checkpoints/lora_v1/` (files like `adapter_model.safetensors`, `adapter_config.json`).
+- **Training Loop - LoRA**: training logic and hyperparameters are in `Banking-Data/scripts/train_lora.py` and `Banking-Data/run_all.sh` (example orchestration).
+- **Saved Checkpoints - safetensors**: look in `Banking-Data/output/checkpoints/lora_v1/` and its `checkpoint-50/` subfolder for artifacts.
+- **Evaluation Scripts**: evaluation and benchmark scripts: `Banking-Data/scripts/evaluate_models.py` and `Banking-Data/scripts/benchmark_and_evaluate.py`.
+- **Metrics & Reports**: evaluation outputs in `Banking-Data/output/` such as `evaluation_summary.json`, `assignment_report_summary.json`, and `cleaning_report.csv`.
+- **Prompting / Serving - attach adapters at runtime**: examples and inference orchestration appear in `Banking-Data/scripts/run_assignment.py` and `Banking-Data/scripts/finalize_assignment.py` (load base model and adapter for serving).
+
+Use this mapping in interviews to point directly to code and artifacts when describing each pipeline stage.
+
 

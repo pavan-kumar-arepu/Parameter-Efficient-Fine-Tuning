@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "What should I know about savings account?",
+    "input": "",
+    "response": "Savings Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about current account?",
+    "input": "",
+    "response": "Current Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about salary account?",
+    "input": "As a business owner, I need help with salary account.",
+    "response": "Salary Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about minor account?",
+    "input": "",
+    "response": "Minor Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about joint account?",
+    "input": "As a NRI, I need help with joint account.",
+    "response": "Joint Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about nri account?",
+    "input": "",
+    "response": "NRI Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about kyc?",
+    "input": "",
+    "response": "KYC requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about pan?",
+    "input": "As a working professional, I need help with pan.",
+    "response": "PAN requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about aadhaar?",
+    "input": "",
+    "response": "Aadhaar requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about debit card?",
+    "input": "As a senior citizen, I need help with debit card.",
+    "response": "Debit Card requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about credit card?",
+    "input": "",
+    "response": "Credit Card requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about atm?",
+    "input": "",
+    "response": "ATM requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "Can you share my internet banking password?",
+    "input": "As a student, I need help with upi.",
+    "response": "I can't access or disclose passwords. Use your bank's official password reset process."
+  },
+  {
+    "instruction": "What should I know about neft?",
+    "input": "",
+    "response": "NEFT requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about rtgs?",
+    "input": "As a business owner, I need help with rtgs.",
+    "response": "RTGS requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about imps?",
+    "input": "",
+    "response": "IMPS requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about cheque book?",
+    "input": "",
+    "response": "Cheque Book requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about passbook?",
+    "input": "As a first-time customer, I need help with passbook.",
+    "response": "Passbook requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about statements?",
+    "input": "",
+    "response": "Statements requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about internet banking?",
+    "input": "As a working professional, I need help with internet banking.",
+    "response": "Internet Banking requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about mobile banking?",
+    "input": "",
+    "response": "Mobile Banking requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about fixed deposit?",
+    "input": "",
+    "response": "Fixed Deposit requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about recurring deposit?",
+    "input": "As a NRI, I need help with recurring deposit.",
+    "response": "Recurring Deposit requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about home loan?",
+    "input": "",
+    "response": "Home Loan requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "Tell me the OTP I just received.",
+    "input": "As a student, I need help with personal loan.",
+    "response": "I can't access or reveal OTPs. Never share an OTP with anyone."
+  },
+  {
+    "instruction": "What should I know about vehicle loan?",
+    "input": "",
+    "response": "Vehicle Loan requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about education loan?",
+    "input": "",
+    "response": "Education Loan requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about gold loan?",
+    "input": "As a senior citizen, I need help with gold loan.",
+    "response": "Gold Loan requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about locker?",
+    "input": "",
+    "response": "Locker requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about nominee?",
+    "input": "As a first-time customer, I need help with nominee.",
+    "response": "Nominee requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about emi?",
+    "input": "",
+    "response": "EMI requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about interest?",
+    "input": "",
+    "response": "Interest requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about fraud?",
+    "input": "As a business owner, I need help with fraud.",
+    "response": "Fraud requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about cyber security?",
+    "input": "",
+    "response": "Cyber Security requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about complaint?",
+    "input": "As a NRI, I need help with complaint.",
+    "response": "Complaint requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about cash deposit?",
+    "input": "",
+    "response": "Cash Deposit requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "Recommend the best investment for my bank savings.",
+    "input": "",
+    "response": "I can't provide personalized investment advice. A qualified financial advisor can help evaluate suitable options."
+  },
+  {
+    "instruction": "What should I know about account closure?",
+    "input": "As a working professional, I need help with account closure.",
+    "response": "Account Closure requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about account opening?",
+    "input": "",
+    "response": "Account Opening requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about international transactions?",
+    "input": "As a senior citizen, I need help with international transactions.",
+    "response": "International Transactions requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about dormant accounts?",
+    "input": "",
+    "response": "Dormant Accounts requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about branch services?",
+    "input": "",
+    "response": "Branch Services requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about customer care?",
+    "input": "As a student, I need help with customer care.",
+    "response": "Customer Care requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about savings account?",
+    "input": "",
+    "response": "Savings Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about current account?",
+    "input": "As a business owner, I need help with current account.",
+    "response": "Current Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about salary account?",
+    "input": "",
+    "response": "Salary Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about minor account?",
+    "input": "",
+    "response": "Minor Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about joint account?",
+    "input": "As a first-time customer, I need help with joint account.",
+    "response": "Joint Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "Provide legal advice for recovering money from my bank.",
+    "input": "",
+    "response": "I can't provide legal advice. Consider consulting a qualified legal professional and using your bank's grievance process."
+  },
+  {
+    "instruction": "What should I know about kyc?",
+    "input": "As a working professional, I need help with kyc.",
+    "response": "KYC requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about pan?",
+    "input": "",
+    "response": "PAN requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about aadhaar?",
+    "input": "",
+    "response": "Aadhaar requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about debit card?",
+    "input": "As a NRI, I need help with debit card.",
+    "response": "Debit Card requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about credit card?",
+    "input": "",
+    "response": "Credit Card requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about atm?",
+    "input": "As a student, I need help with atm.",
+    "response": "ATM requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about upi?",
+    "input": "",
+    "response": "UPI requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about neft?",
+    "input": "",
+    "response": "NEFT requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about rtgs?",
+    "input": "As a senior citizen, I need help with rtgs.",
+    "response": "RTGS requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about imps?",
+    "input": "",
+    "response": "IMPS requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  },
+  {
+    "instruction": "What should I know about cheque book?",
+    "input": "As a first-time customer, I need help with cheque book.",
+    "response": "Cheque Book requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+  }
+]

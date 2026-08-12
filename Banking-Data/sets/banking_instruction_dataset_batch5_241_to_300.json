@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Explain the key points about savings account.",
+    "input": "",
+    "response": "Savings Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about current account.",
+    "input": "I am a working professional looking for guidance on current account.",
+    "response": "Current Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about salary account.",
+    "input": "",
+    "response": "Salary Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about minor account.",
+    "input": "I am a senior citizen looking for guidance on minor account.",
+    "response": "Minor Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about joint account.",
+    "input": "",
+    "response": "Joint Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about nri account.",
+    "input": "",
+    "response": "NRI Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about kyc.",
+    "input": "I am a student looking for guidance on kyc.",
+    "response": "KYC can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about pan.",
+    "input": "",
+    "response": "PAN can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about aadhaar.",
+    "input": "I am a business owner looking for guidance on aadhaar.",
+    "response": "Aadhaar can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Can you tell me my internet banking password?",
+    "input": "",
+    "response": "I can't access or disclose passwords. Please use your bank's official password reset process."
+  },
+  {
+    "instruction": "Explain the key points about credit card.",
+    "input": "",
+    "response": "Credit Card can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about atm.",
+    "input": "I am a first-time customer looking for guidance on atm.",
+    "response": "ATM can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about upi.",
+    "input": "",
+    "response": "UPI can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about neft.",
+    "input": "I am a working professional looking for guidance on neft.",
+    "response": "NEFT can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about rtgs.",
+    "input": "",
+    "response": "RTGS can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about imps.",
+    "input": "",
+    "response": "IMPS can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about cheque book.",
+    "input": "I am a NRI looking for guidance on cheque book.",
+    "response": "Cheque Book can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about passbook.",
+    "input": "",
+    "response": "Passbook can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about statements.",
+    "input": "I am a student looking for guidance on statements.",
+    "response": "Statements can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about internet banking.",
+    "input": "",
+    "response": "Internet Banking can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about mobile banking.",
+    "input": "",
+    "response": "Mobile Banking can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Can you read the OTP sent to my phone?",
+    "input": "I am a senior citizen looking for guidance on fixed deposit.",
+    "response": "I can't access or reveal OTPs. Never share an OTP with anyone, even if they claim to represent your bank."
+  },
+  {
+    "instruction": "Explain the key points about recurring deposit.",
+    "input": "",
+    "response": "Recurring Deposit can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about home loan.",
+    "input": "I am a first-time customer looking for guidance on home loan.",
+    "response": "Home Loan can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about personal loan.",
+    "input": "",
+    "response": "Personal Loan can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about vehicle loan.",
+    "input": "",
+    "response": "Vehicle Loan can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about education loan.",
+    "input": "I am a business owner looking for guidance on education loan.",
+    "response": "Education Loan can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about gold loan.",
+    "input": "",
+    "response": "Gold Loan can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about locker.",
+    "input": "I am a NRI looking for guidance on locker.",
+    "response": "Locker can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about nominee.",
+    "input": "",
+    "response": "Nominee can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about emi.",
+    "input": "",
+    "response": "EMI can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about interest.",
+    "input": "I am a working professional looking for guidance on interest.",
+    "response": "Interest can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about fraud.",
+    "input": "",
+    "response": "Fraud can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Which investment should I make with my bank balance?",
+    "input": "I am a senior citizen looking for guidance on cyber security.",
+    "response": "I can't provide personalized investment advice. Consult a qualified financial advisor for recommendations tailored to your situation."
+  },
+  {
+    "instruction": "Explain the key points about complaint.",
+    "input": "",
+    "response": "Complaint can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about cash deposit.",
+    "input": "",
+    "response": "Cash Deposit can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about cash withdrawal.",
+    "input": "I am a student looking for guidance on cash withdrawal.",
+    "response": "Cash Withdrawal can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about account closure.",
+    "input": "",
+    "response": "Account Closure can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about account opening.",
+    "input": "I am a business owner looking for guidance on account opening.",
+    "response": "Account Opening can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about international transactions.",
+    "input": "",
+    "response": "International Transactions can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about dormant accounts.",
+    "input": "",
+    "response": "Dormant Accounts can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about branch services.",
+    "input": "I am a first-time customer looking for guidance on branch services.",
+    "response": "Branch Services can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about customer care.",
+    "input": "",
+    "response": "Customer Care can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about savings account.",
+    "input": "I am a working professional looking for guidance on savings account.",
+    "response": "Savings Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about current account.",
+    "input": "",
+    "response": "Current Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Give me tax advice for my bank deposits.",
+    "input": "",
+    "response": "I can't provide personalized tax advice. Please consult a qualified tax professional for guidance."
+  },
+  {
+    "instruction": "Explain the key points about minor account.",
+    "input": "I am a NRI looking for guidance on minor account.",
+    "response": "Minor Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about joint account.",
+    "input": "",
+    "response": "Joint Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about nri account.",
+    "input": "I am a student looking for guidance on nri account.",
+    "response": "NRI Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about kyc.",
+    "input": "",
+    "response": "KYC can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about pan.",
+    "input": "",
+    "response": "PAN can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about aadhaar.",
+    "input": "I am a senior citizen looking for guidance on aadhaar.",
+    "response": "Aadhaar can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about debit card.",
+    "input": "",
+    "response": "Debit Card can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about credit card.",
+    "input": "I am a first-time customer looking for guidance on credit card.",
+    "response": "Credit Card can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about atm.",
+    "input": "",
+    "response": "ATM can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about upi.",
+    "input": "",
+    "response": "UPI can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about neft.",
+    "input": "I am a business owner looking for guidance on neft.",
+    "response": "NEFT can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Can you provide legal advice for closing a disputed account?",
+    "input": "",
+    "response": "I can't provide legal advice. Consider consulting a qualified legal professional and following your bank's complaint resolution process."
+  },
+  {
+    "instruction": "Explain the key points about imps.",
+    "input": "I am a NRI looking for guidance on imps.",
+    "response": "IMPS can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  },
+  {
+    "instruction": "Explain the key points about cheque book.",
+    "input": "",
+    "response": "Cheque Book can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+  }
+]

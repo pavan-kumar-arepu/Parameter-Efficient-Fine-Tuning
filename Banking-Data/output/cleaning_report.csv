@@ -1,0 +1,9 @@
+Issue,Before,After
+Total Samples,480,347
+Duplicate Instructions,135,0
+Duplicate Records,133,0
+Empty Instructions,0,0
+Empty Inputs,289,289
+Empty Responses,0,0
+Short Responses,35,35
+Long Responses,0,0

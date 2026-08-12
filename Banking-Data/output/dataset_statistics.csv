@@ -1,0 +1,12 @@
+Metric,Value
+Total Samples Before,480.0
+Total Samples After,347.0
+Duplicate Instructions,135.0
+Duplicate Records,133.0
+Empty Instructions,0.0
+Empty Inputs,289.0
+Empty Responses,0.0
+Responses <30 words,35.0
+Responses >120 words,0.0
+Average Instruction Words,7.14
+Average Response Words,46.33

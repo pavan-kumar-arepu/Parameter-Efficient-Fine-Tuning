@@ -1,0 +1,42 @@
+
+==============================
+TASK 1 SUMMARY
+==============================
+
+Original Dataset : 480
+
+Cleaned Dataset : 347
+
+Training Samples : 277
+
+Validation Samples : 35
+
+Testing Samples : 35
+
+Duplicate Instructions : 135
+
+Duplicate Records : 133
+
+Empty Instructions : 0
+
+Empty Inputs : 289
+
+Empty Responses : 0
+
+Responses <30 words : 35
+
+Responses >120 words : 0
+
+Files Generated
+
+cleaned_dataset.json
+
+train.json
+
+validation.json
+
+test.json
+
+dataset_statistics.csv
+
+cleaning_report.csv

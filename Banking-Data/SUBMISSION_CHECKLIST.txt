@@ -1,0 +1,40 @@
+Assignment Submission Checklist
+==============================
+
+1. Project folder
+- Submit the full Banking-Data folder.
+- Keep the folder structure intact.
+
+2. Code files
+- Include all Python scripts in the scripts/ folder.
+- Include merge_json.py, task1_pipeline.py, and run_all.sh.
+
+3. Generated data artifacts
+- Include output/cleaned_dataset.json
+- Include output/train.json
+- Include output/validation.json
+- Include output/test.json
+- Include output/dataset_statistics.csv
+- Include output/cleaning_report.csv
+- Include output/benchmark_prompts.json
+- Include output/benchmark_results.json
+- Include output/evaluation_summary.json
+
+4. Fine-tuned model artifacts
+- Include the checkpoint folder output/checkpoints/lora_v1
+- If the size is too large, provide a link to the checkpoint in the report.
+
+5. Report
+- Include submission/assignment_report.pdf
+- Make sure the report documents the model choice, dataset, training setup, and evaluation summary.
+
+6. Virtual Lab proof
+- Capture full-screen screenshots of:
+  - environment setup
+  - dependency installation
+  - dataset preparation
+  - model fine-tuning
+  - report generation
+
+7. Final note
+- Keep the README and run_all.sh in the project root for easy execution.

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "prompt": "How do I open a savings account in this bank?",
+    "type": "in_domain_factual"
+  },
+  {
+    "id": 2,
+    "prompt": "List the required documents to apply for a credit card.",
+    "type": "in_domain_factual"
+  },
+  {
+    "id": 3,
+    "prompt": "I need help with a disputed transaction. Explain the steps in bullet points.",
+    "type": "formatting_sensitive"
+  },
+  {
+    "id": 4,
+    "prompt": "How can I transfer money internationally and what fees should I expect?",
+    "type": "reasoning_style"
+  },
+  {
+    "id": 5,
+    "prompt": "What is the capital of France?",
+    "type": "out_of_scope"
+  },
+  {
+    "id": 6,
+    "prompt": "Explain how to reset my online banking password safely.",
+    "type": "in_domain_factual"
+  },
+  {
+    "id": 7,
+    "prompt": "Give me a short response that starts with Yes and includes exactly three bullet points.",
+    "type": "formatting_sensitive"
+  },
+  {
+    "id": 8,
+    "prompt": "Why might a loan application be declined?",
+    "type": "reasoning_style"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "assignment": "Conversational AI Assignment 2",
+  "domain": "banking support",
+  "slm": "google/flan-t5-small",
+  "reference_llm": "gpt-4o-mini or comparable hosted model",
+  "dataset_source": "local banking instruction JSON files",
+  "dataset_size": 347,
+  "train_split": 277,
+  "validation_split": 35,
+  "test_split": 35,
+  "benchmark_prompts": 8,
+  "checkpoint_dir": "/Users/kumarsaurav/Documents/ConAI/Banking-Data/output/checkpoints",
+  "notes": [
+    "The workflow uses LoRA-based parameter-efficient fine-tuning.",
+    "The benchmark prompts are frozen and reused across tasks.",
+    "The scripts generate reports and outputs that can be used directly in the submission."
+  ]
+}

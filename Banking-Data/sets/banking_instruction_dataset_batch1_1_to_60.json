@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "How do I open a savings account?",
+    "input": "",
+    "response": "Savings Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "When should I choose a current account?",
+    "input": "I am a working professional and need help regarding current account.",
+    "response": "Current Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "What is a salary account?",
+    "input": "",
+    "response": "Salary Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How can I open a minor account?",
+    "input": "I am a senior citizen and need help regarding minor account.",
+    "response": "Minor Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How does a joint account work?",
+    "input": "",
+    "response": "Joint Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Can an NRI open an account?",
+    "input": "",
+    "response": "NRI Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "What is KYC?",
+    "input": "I am a student and need help regarding kyc.",
+    "response": "KYC services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Why is PAN required?",
+    "input": "",
+    "response": "PAN services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How is Aadhaar used?",
+    "input": "I am a business owner and need help regarding aadhaar.",
+    "response": "Aadhaar services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Can you tell me my debit card PIN?",
+    "input": "",
+    "response": "I can't disclose or recover a debit card PIN. Use your bank's official PIN reset process through authorized channels. Never share your PIN with anyone."
+  },
+  {
+    "instruction": "How do credit cards work?",
+    "input": "",
+    "response": "Credit Card services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "ATM cash not dispensed.",
+    "input": "I am a NRI and need help regarding atm.",
+    "response": "ATM services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "UPI payment pending.",
+    "input": "",
+    "response": "UPI services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How do I use NEFT?",
+    "input": "I am a working professional and need help regarding neft.",
+    "response": "NEFT services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "When should I use RTGS?",
+    "input": "",
+    "response": "RTGS services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Explain IMPS.",
+    "input": "",
+    "response": "IMPS services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How to request a cheque book?",
+    "input": "I am a first-time customer and need help regarding cheque book.",
+    "response": "Cheque Book services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Why use a passbook?",
+    "input": "",
+    "response": "Passbook services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How to download statements?",
+    "input": "I am a student and need help regarding statements.",
+    "response": "Statements services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Can I share my OTP with a caller claiming to be from the bank?",
+    "input": "",
+    "response": "No. Never share your OTP with anyone. Genuine bank representatives do not ask for OTPs. Report suspicious calls to your bank."
+  },
+  {
+    "instruction": "Activate mobile banking.",
+    "input": "",
+    "response": "Mobile Banking services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Explain fixed deposits.",
+    "input": "I am a senior citizen and need help regarding fixed deposit.",
+    "response": "Fixed Deposit services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Explain recurring deposits.",
+    "input": "",
+    "response": "Recurring Deposit services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Apply for a home loan.",
+    "input": "I am a NRI and need help regarding home loan.",
+    "response": "Home Loan services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Eligibility for personal loan.",
+    "input": "",
+    "response": "Personal Loan services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Apply for vehicle loan.",
+    "input": "",
+    "response": "Vehicle Loan services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Education loan basics.",
+    "input": "I am a business owner and need help regarding education loan.",
+    "response": "Education Loan services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How does a gold loan work?",
+    "input": "",
+    "response": "Gold Loan services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How to get a locker?",
+    "input": "I am a first-time customer and need help regarding locker.",
+    "response": "Locker services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Which mutual fund should I invest in?",
+    "input": "",
+    "response": "I can't provide personalized investment advice. Consider consulting a qualified financial advisor and reviewing your financial goals before investing."
+  },
+  {
+    "instruction": "What is EMI?",
+    "input": "",
+    "response": "EMI services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How is interest calculated?",
+    "input": "I am a working professional and need help regarding interest.",
+    "response": "Interest services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Report banking fraud.",
+    "input": "",
+    "response": "Fraud services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Protect online banking.",
+    "input": "I am a senior citizen and need help regarding cyber security.",
+    "response": "Cyber Security services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "File a complaint.",
+    "input": "",
+    "response": "Complaint services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Deposit cash.",
+    "input": "",
+    "response": "Cash Deposit services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Withdraw cash.",
+    "input": "I am a student and need help regarding cash withdrawal.",
+    "response": "Cash Withdrawal services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Close my account.",
+    "input": "",
+    "response": "Account Closure services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Open a bank account.",
+    "input": "I am a business owner and need help regarding account opening.",
+    "response": "Account Opening services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Can you tell me my internet banking password?",
+    "input": "",
+    "response": "I can't reveal or recover passwords. Use the official password reset process provided by your bank."
+  },
+  {
+    "instruction": "Reactivate dormant account.",
+    "input": "",
+    "response": "Dormant Accounts services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Services at branch.",
+    "input": "I am a NRI and need help regarding branch services.",
+    "response": "Branch Services services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Contact customer care.",
+    "input": "",
+    "response": "Customer Care services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How do I open a savings account?",
+    "input": "I am a working professional and need help regarding savings account.",
+    "response": "Savings Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "When should I choose a current account?",
+    "input": "",
+    "response": "Current Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "What is a salary account?",
+    "input": "",
+    "response": "Salary Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How can I open a minor account?",
+    "input": "I am a first-time customer and need help regarding minor account.",
+    "response": "Minor Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How does a joint account work?",
+    "input": "",
+    "response": "Joint Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Can an NRI open an account?",
+    "input": "I am a student and need help regarding nri account.",
+    "response": "NRI Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Can you give legal advice about my banking dispute?",
+    "input": "",
+    "response": "I can't provide legal advice. Consider consulting a qualified legal professional and use your bank's complaint process first."
+  },
+  {
+    "instruction": "Why is PAN required?",
+    "input": "",
+    "response": "PAN services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How is Aadhaar used?",
+    "input": "I am a senior citizen and need help regarding aadhaar.",
+    "response": "Aadhaar services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "My debit card isn't working.",
+    "input": "",
+    "response": "Debit Card services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How do credit cards work?",
+    "input": "I am a NRI and need help regarding credit card.",
+    "response": "Credit Card services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "ATM cash not dispensed.",
+    "input": "",
+    "response": "ATM services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "UPI payment pending.",
+    "input": "",
+    "response": "UPI services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "How do I use NEFT?",
+    "input": "I am a business owner and need help regarding neft.",
+    "response": "NEFT services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "When should I use RTGS?",
+    "input": "",
+    "response": "RTGS services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Explain IMPS.",
+    "input": "I am a first-time customer and need help regarding imps.",
+    "response": "IMPS services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+  },
+  {
+    "instruction": "Can you help reduce my taxes using my bank account?",
+    "input": "",
+    "response": "I can't provide personalized tax advice. Please consult a qualified tax professional."
+  }
+]

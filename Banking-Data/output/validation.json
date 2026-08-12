@@ -1,0 +1,177 @@
+[
+    {
+        "instruction":"What should a customer know before identity verification related to kyc?",
+        "input":"",
+        "response":"Review the eligibility requirements, required documents, applicable charges, and processing time before proceeding with kyc. Keep your contact information updated, verify all details before authorizing any transaction, and retain acknowledgements or receipts for future reference. If you notice unexpected delays, incorrect information, or unauthorized activity, contact your bank through its official customer support channels without delay."
+    },
+    {
+        "instruction":"Explain dormant accounts for a business owner.",
+        "input":"",
+        "response":"Dormant Accounts requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+    },
+    {
+        "instruction":"Provide guidance about interest.",
+        "input":"I am a working professional. I need assistance related to interest.",
+        "response":"For interest, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+    },
+    {
+        "instruction":"Guide me through gold loan for a student.",
+        "input":"I am a student. I recently needed assistance with gold loan and would like clear guidance before visiting the bank.",
+        "response":"Gold Loan requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+    },
+    {
+        "instruction":"Explain the key points about emi.",
+        "input":"",
+        "response":"EMI can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+    },
+    {
+        "instruction":"Can you read the OTP sent to my phone?",
+        "input":"I am a senior citizen looking for guidance on fixed deposit.",
+        "response":"I can't access or reveal OTPs. Never share an OTP with anyone, even if they claim to represent your bank."
+    },
+    {
+        "instruction":"Contact customer care.",
+        "input":"",
+        "response":"Customer Care services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+    },
+    {
+        "instruction":"Provide guidance about emi.",
+        "input":"",
+        "response":"For emi, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+    },
+    {
+        "instruction":"When is it appropriate to use closing process related to account closure?",
+        "input":"",
+        "response":"Review the eligibility requirements, required documents, applicable charges, and processing time before proceeding with account closure. Keep your contact information updated, verify all details before authorizing any transaction, and retain acknowledgements or receipts for future reference. If you notice unexpected delays, incorrect information, or unauthorized activity, contact your bank through its official customer support channels without delay."
+    },
+    {
+        "instruction":"Explain the key points about imps.",
+        "input":"",
+        "response":"IMPS can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+    },
+    {
+        "instruction":"Can you tell me my internet banking password?",
+        "input":"",
+        "response":"I can't reveal or recover passwords. Use the official password reset process provided by your bank."
+    },
+    {
+        "instruction":"Can you tell me my debit card PIN?",
+        "input":"",
+        "response":"I can't disclose or recover a debit card PIN. Use your bank's official PIN reset process through authorized channels. Never share your PIN with anyone."
+    },
+    {
+        "instruction":"Provide guidance about account opening.",
+        "input":"I am a business owner. I need assistance related to account opening.",
+        "response":"For account opening, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+    },
+    {
+        "instruction":"How do I manage joint account effectively?",
+        "input":"",
+        "response":"For joint account, use only official banking channels and complete any required verification. Check eligibility, applicable fees, transaction limits, and processing timelines before submitting your request. Keep your registered contact details updated, review confirmations carefully, and contact customer support if you notice unexpected delays or errors."
+    },
+    {
+        "instruction":"Provide guidance about gold loans.",
+        "input":"",
+        "response":"For gold loans, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+    },
+    {
+        "instruction":"Provide guidance about cash withdrawals.",
+        "input":"I am a student. I need assistance related to cash withdrawals.",
+        "response":"For cash withdrawals, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+    },
+    {
+        "instruction":"What should I know about recurring deposit?",
+        "input":"As a NRI, I need help with recurring deposit.",
+        "response":"Recurring Deposit requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+    },
+    {
+        "instruction":"Can you help me understand instant payments related to upi?",
+        "input":"",
+        "response":"Review the eligibility requirements, required documents, applicable charges, and processing time before proceeding with upi. Keep your contact information updated, verify all details before authorizing any transaction, and retain acknowledgements or receipts for future reference. If you notice unexpected delays, incorrect information, or unauthorized activity, contact your bank through its official customer support channels without delay."
+    },
+    {
+        "instruction":"Explain the key points about salary account.",
+        "input":"",
+        "response":"Salary Account can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+    },
+    {
+        "instruction":"Explain recurring deposits.",
+        "input":"",
+        "response":"Recurring Deposit services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+    },
+    {
+        "instruction":"Can you provide legal advice regarding my loan agreement?",
+        "input":"I am a student seeking help with nri account after a recent banking issue.",
+        "response":"I can't provide legal advice. For legal interpretation of a loan agreement, consult a qualified legal professional."
+    },
+    {
+        "instruction":"Protect online banking.",
+        "input":"I am a senior citizen and need help regarding cyber security.",
+        "response":"Cyber Security services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+    },
+    {
+        "instruction":"What is EMI?",
+        "input":"",
+        "response":"EMI services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+    },
+    {
+        "instruction":"Can you help me understand car purchase related to vehicle loan?",
+        "input":"",
+        "response":"Review the eligibility requirements, required documents, applicable charges, and processing time before proceeding with vehicle loan. Keep your contact information updated, verify all details before authorizing any transaction, and retain acknowledgements or receipts for future reference. If you notice unexpected delays, incorrect information, or unauthorized activity, contact your bank through its official customer support channels without delay."
+    },
+    {
+        "instruction":"Can an NRI open an account?",
+        "input":"",
+        "response":"NRI Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+    },
+    {
+        "instruction":"What should I know about salary account?",
+        "input":"As a business owner, I need help with salary account.",
+        "response":"Salary Account requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+    },
+    {
+        "instruction":"What should I know about home loan?",
+        "input":"",
+        "response":"Home Loan requests should be completed through your bank's authorized channels. Ensure your KYC details are current, review eligibility, applicable fees, limits, and processing timelines before proceeding. Always verify transaction details and retain acknowledgements for future reference."
+    },
+    {
+        "instruction":"Explain the key points about statements.",
+        "input":"I am a student looking for guidance on statements.",
+        "response":"Statements can be managed through your bank's authorized channels after completing any required verification. Review eligibility, documentation, applicable charges, limits, and expected processing time before proceeding. Protect your banking information, verify transaction details carefully, and contact customer support if you encounter unexpected issues."
+    },
+    {
+        "instruction":"Can you help reduce my taxes using my bank account?",
+        "input":"",
+        "response":"I can't provide personalized tax advice. Please consult a qualified tax professional."
+    },
+    {
+        "instruction":"How should I handle new account related to account opening?",
+        "input":"I am a freelancer. This is my first time dealing with account opening and I want to avoid mistakes.",
+        "response":"Review the eligibility requirements, required documents, applicable charges, and processing time before proceeding with account opening. Keep your contact information updated, verify all details before authorizing any transaction, and retain acknowledgements or receipts for future reference. If you notice unexpected delays, incorrect information, or unauthorized activity, contact your bank through its official customer support channels without delay."
+    },
+    {
+        "instruction":"Guide me through rtgs for a student.",
+        "input":"I am a student. I recently needed assistance with rtgs and would like clear guidance before visiting the bank.",
+        "response":"RTGS requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+    },
+    {
+        "instruction":"When should I use salary account for a NRI.",
+        "input":"I am a NRI. I recently needed assistance with salary account and would like clear guidance before visiting the bank.",
+        "response":"Salary Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+    },
+    {
+        "instruction":"How do I manage fixed deposit effectively?",
+        "input":"",
+        "response":"For fixed deposit, use only official banking channels and complete any required verification. Check eligibility, applicable fees, transaction limits, and processing timelines before submitting your request. Keep your registered contact details updated, review confirmations carefully, and contact customer support if you notice unexpected delays or errors."
+    },
+    {
+        "instruction":"Give me tax advice for my bank deposits.",
+        "input":"",
+        "response":"I can't provide personalized tax advice. Please consult a qualified tax professional for guidance."
+    },
+    {
+        "instruction":"How can I open a minor account?",
+        "input":"I am a senior citizen and need help regarding minor account.",
+        "response":"Minor Account services are provided after completing applicable verification and documentation requirements. Follow your bank's official process, keep your records updated, verify all transaction details before confirming, and contact customer support if you face issues. This helps ensure secure and accurate banking."
+    }
+]

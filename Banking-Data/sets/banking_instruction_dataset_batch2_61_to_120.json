@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Provide guidance about saving habits.",
+    "input": "",
+    "response": "For saving habits, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about current accounts.",
+    "input": "I am a working professional. I need assistance related to current accounts.",
+    "response": "For current accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about salary accounts.",
+    "input": "",
+    "response": "For salary accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about minor accounts.",
+    "input": "I am a senior citizen. I need assistance related to minor accounts.",
+    "response": "For minor accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about joint accounts.",
+    "input": "",
+    "response": "For joint accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about nri banking.",
+    "input": "",
+    "response": "For nri banking, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about kyc.",
+    "input": "I am a student. I need assistance related to kyc.",
+    "response": "For kyc, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about pan.",
+    "input": "",
+    "response": "For pan, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about aadhaar.",
+    "input": "I am a business owner. I need assistance related to aadhaar.",
+    "response": "For aadhaar, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Can you reveal my credit card PIN?",
+    "input": "",
+    "response": "I can't reveal or retrieve a credit card PIN. Use your bank's official PIN generation or reset process."
+  },
+  {
+    "instruction": "Provide guidance about credit cards.",
+    "input": "",
+    "response": "For credit cards, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about atms.",
+    "input": "I am a first-time customer. I need assistance related to atms.",
+    "response": "For atms, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about upi.",
+    "input": "",
+    "response": "For upi, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about neft.",
+    "input": "I am a working professional. I need assistance related to neft.",
+    "response": "For neft, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about rtgs.",
+    "input": "",
+    "response": "For rtgs, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about imps.",
+    "input": "",
+    "response": "For imps, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about cheque books.",
+    "input": "I am a NRI. I need assistance related to cheque books.",
+    "response": "For cheque books, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about passbooks.",
+    "input": "",
+    "response": "For passbooks, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about statements.",
+    "input": "I am a student. I need assistance related to statements.",
+    "response": "For statements, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about internet banking.",
+    "input": "",
+    "response": "For internet banking, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about mobile banking.",
+    "input": "",
+    "response": "For mobile banking, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Should I buy a particular stock using my savings?",
+    "input": "I am a senior citizen. I need assistance related to fixed deposits.",
+    "response": "I can't provide personalized investment recommendations. Consider speaking with a qualified financial advisor."
+  },
+  {
+    "instruction": "Provide guidance about recurring deposits.",
+    "input": "",
+    "response": "For recurring deposits, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about home loans.",
+    "input": "I am a first-time customer. I need assistance related to home loans.",
+    "response": "For home loans, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about personal loans.",
+    "input": "",
+    "response": "For personal loans, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about vehicle loans.",
+    "input": "",
+    "response": "For vehicle loans, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about education loans.",
+    "input": "I am a business owner. I need assistance related to education loans.",
+    "response": "For education loans, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about gold loans.",
+    "input": "",
+    "response": "For gold loans, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about lockers.",
+    "input": "I am a NRI. I need assistance related to lockers.",
+    "response": "For lockers, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about nominees.",
+    "input": "",
+    "response": "For nominees, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about emi.",
+    "input": "",
+    "response": "For emi, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about interest.",
+    "input": "I am a working professional. I need assistance related to interest.",
+    "response": "For interest, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about fraud prevention.",
+    "input": "",
+    "response": "For fraud prevention, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Can you tell me the OTP sent to my phone?",
+    "input": "I am a senior citizen. I need assistance related to cyber security.",
+    "response": "I can't access or disclose OTPs. Never share OTPs with anyone, even if they claim to represent your bank."
+  },
+  {
+    "instruction": "Provide guidance about complaints.",
+    "input": "",
+    "response": "For complaints, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about cash deposits.",
+    "input": "",
+    "response": "For cash deposits, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about cash withdrawals.",
+    "input": "I am a student. I need assistance related to cash withdrawals.",
+    "response": "For cash withdrawals, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about account closure.",
+    "input": "",
+    "response": "For account closure, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about account opening.",
+    "input": "I am a business owner. I need assistance related to account opening.",
+    "response": "For account opening, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about international transactions.",
+    "input": "",
+    "response": "For international transactions, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about dormant accounts.",
+    "input": "",
+    "response": "For dormant accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about branch services.",
+    "input": "I am a first-time customer. I need assistance related to branch services.",
+    "response": "For branch services, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about customer care.",
+    "input": "",
+    "response": "For customer care, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about saving habits.",
+    "input": "I am a working professional. I need assistance related to saving habits.",
+    "response": "For saving habits, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about current accounts.",
+    "input": "",
+    "response": "For current accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about salary accounts.",
+    "input": "",
+    "response": "For salary accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about minor accounts.",
+    "input": "I am a NRI. I need assistance related to minor accounts.",
+    "response": "For minor accounts, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Give me legal advice for a loan dispute.",
+    "input": "",
+    "response": "I can't provide legal advice. Consider consulting a qualified legal professional and preserving all relevant records."
+  },
+  {
+    "instruction": "Provide guidance about nri banking.",
+    "input": "I am a student. I need assistance related to nri banking.",
+    "response": "For nri banking, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about kyc.",
+    "input": "",
+    "response": "For kyc, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about pan.",
+    "input": "",
+    "response": "For pan, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about aadhaar.",
+    "input": "I am a senior citizen. I need assistance related to aadhaar.",
+    "response": "For aadhaar, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about debit cards.",
+    "input": "",
+    "response": "For debit cards, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about credit cards.",
+    "input": "I am a first-time customer. I need assistance related to credit cards.",
+    "response": "For credit cards, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about atms.",
+    "input": "",
+    "response": "For atms, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about upi.",
+    "input": "",
+    "response": "For upi, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about neft.",
+    "input": "I am a business owner. I need assistance related to neft.",
+    "response": "For neft, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about rtgs.",
+    "input": "",
+    "response": "For rtgs, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about imps.",
+    "input": "I am a NRI. I need assistance related to imps.",
+    "response": "For imps, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  },
+  {
+    "instruction": "Provide guidance about cheque books.",
+    "input": "",
+    "response": "For cheque books, begin by following your bank's official procedure and completing any required identity verification. Review applicable eligibility, charges, limits, processing time, and documentation before submitting a request. Keep your contact details updated, verify information carefully, and contact customer support if anything appears incorrect or delayed."
+  }
+]

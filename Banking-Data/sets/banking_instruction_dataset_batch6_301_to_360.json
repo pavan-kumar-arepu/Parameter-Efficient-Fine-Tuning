@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Explain savings account for a student.",
+    "input": "",
+    "response": "Savings Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What should I know about current account for a business owner.",
+    "input": "I am a business owner. I recently needed assistance with current account and would like clear guidance before visiting the bank.",
+    "response": "Current Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "When should I use salary account for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with salary account and would like clear guidance before visiting the bank.",
+    "response": "Salary Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Troubleshoot minor account for a student.",
+    "input": "",
+    "response": "Minor Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Help me understand joint account for a business owner.",
+    "input": "",
+    "response": "Joint Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Compare nri account for a NRI.",
+    "input": "",
+    "response": "NRI Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "How can I manage kyc for a student.",
+    "input": "I am a student. I recently needed assistance with kyc and would like clear guidance before visiting the bank.",
+    "response": "KYC requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Guide me through pan for a business owner.",
+    "input": "I am a business owner. I recently needed assistance with pan and would like clear guidance before visiting the bank.",
+    "response": "PAN requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Describe the process for aadhaar for a NRI.",
+    "input": "",
+    "response": "Aadhaar requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What are the benefits of debit card for a student.",
+    "input": "",
+    "response": "Debit Card requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Can you reveal the PIN for my debit card?",
+    "input": "",
+    "response": "I can't reveal or recover a debit card PIN. Use your bank's official PIN generation or reset process and never share your PIN with anyone."
+  },
+  {
+    "instruction": "What should I know about atm for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with atm and would like clear guidance before visiting the bank.",
+    "response": "ATM requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "When should I use upi for a student.",
+    "input": "I am a student. I recently needed assistance with upi and would like clear guidance before visiting the bank.",
+    "response": "UPI requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Troubleshoot neft for a business owner.",
+    "input": "",
+    "response": "NEFT requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Help me understand rtgs for a NRI.",
+    "input": "",
+    "response": "RTGS requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Compare imps for a student.",
+    "input": "",
+    "response": "IMPS requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "How can I manage cheque book for a business owner.",
+    "input": "I am a business owner. I recently needed assistance with cheque book and would like clear guidance before visiting the bank.",
+    "response": "Cheque Book requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Guide me through passbook for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with passbook and would like clear guidance before visiting the bank.",
+    "response": "Passbook requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Describe the process for statements for a student.",
+    "input": "",
+    "response": "Statements requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What are the benefits of internet banking for a business owner.",
+    "input": "",
+    "response": "Internet Banking requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Explain mobile banking for a NRI.",
+    "input": "",
+    "response": "Mobile Banking requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What should I know about fixed deposit for a student.",
+    "input": "I am a student. I recently needed assistance with fixed deposit and would like clear guidance before visiting the bank.",
+    "response": "Fixed Deposit requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "When should I use recurring deposit for a business owner.",
+    "input": "I am a business owner. I recently needed assistance with recurring deposit and would like clear guidance before visiting the bank.",
+    "response": "Recurring Deposit requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Can you tell me the OTP sent for my banking transaction?",
+    "input": "",
+    "response": "I can't access or disclose OTPs. Keep your OTP confidential because genuine banks do not ask customers to share it."
+  },
+  {
+    "instruction": "Help me understand personal loan for a student.",
+    "input": "",
+    "response": "Personal Loan requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Compare vehicle loan for a business owner.",
+    "input": "",
+    "response": "Vehicle Loan requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "How can I manage education loan for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with education loan and would like clear guidance before visiting the bank.",
+    "response": "Education Loan requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Guide me through gold loan for a student.",
+    "input": "I am a student. I recently needed assistance with gold loan and would like clear guidance before visiting the bank.",
+    "response": "Gold Loan requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Describe the process for locker for a business owner.",
+    "input": "",
+    "response": "Locker requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What are the benefits of nominee for a NRI.",
+    "input": "",
+    "response": "Nominee requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Explain emi for a student.",
+    "input": "",
+    "response": "EMI requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What should I know about interest for a business owner.",
+    "input": "I am a business owner. I recently needed assistance with interest and would like clear guidance before visiting the bank.",
+    "response": "Interest requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "When should I use fraud for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with fraud and would like clear guidance before visiting the bank.",
+    "response": "Fraud requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Troubleshoot cyber security for a student.",
+    "input": "",
+    "response": "Cyber Security requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Help me understand complaint for a business owner.",
+    "input": "",
+    "response": "Complaint requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Compare cash deposit for a NRI.",
+    "input": "",
+    "response": "Cash Deposit requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "How can I manage cash withdrawal for a student.",
+    "input": "I am a student. I recently needed assistance with cash withdrawal and would like clear guidance before visiting the bank.",
+    "response": "Cash Withdrawal requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Which investment should I make using the money in my account?",
+    "input": "I am a business owner. I recently needed assistance with account closure and would like clear guidance before visiting the bank.",
+    "response": "I can't provide personalized investment recommendations. Consider discussing your financial goals with a qualified financial advisor."
+  },
+  {
+    "instruction": "Describe the process for account opening for a NRI.",
+    "input": "",
+    "response": "Account Opening requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What are the benefits of international transactions for a student.",
+    "input": "",
+    "response": "International Transactions requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Explain dormant accounts for a business owner.",
+    "input": "",
+    "response": "Dormant Accounts requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What should I know about branch services for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with branch services and would like clear guidance before visiting the bank.",
+    "response": "Branch Services requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "When should I use customer care for a student.",
+    "input": "I am a student. I recently needed assistance with customer care and would like clear guidance before visiting the bank.",
+    "response": "Customer Care requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Troubleshoot savings account for a business owner.",
+    "input": "",
+    "response": "Savings Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Help me understand current account for a NRI.",
+    "input": "",
+    "response": "Current Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Compare salary account for a student.",
+    "input": "",
+    "response": "Salary Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "How can I manage minor account for a business owner.",
+    "input": "I am a business owner. I recently needed assistance with minor account and would like clear guidance before visiting the bank.",
+    "response": "Minor Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Guide me through joint account for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with joint account and would like clear guidance before visiting the bank.",
+    "response": "Joint Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Describe the process for nri account for a student.",
+    "input": "",
+    "response": "NRI Account requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What are the benefits of kyc for a business owner.",
+    "input": "",
+    "response": "KYC requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Explain pan for a NRI.",
+    "input": "",
+    "response": "PAN requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What should I know about aadhaar for a student.",
+    "input": "I am a student. I recently needed assistance with aadhaar and would like clear guidance before visiting the bank.",
+    "response": "Aadhaar requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Give me legal advice about my banking dispute.",
+    "input": "I am a business owner. I recently needed assistance with debit card and would like clear guidance before visiting the bank.",
+    "response": "I can't provide legal advice. Preserve relevant records and consult a qualified legal professional if legal guidance is required."
+  },
+  {
+    "instruction": "Troubleshoot credit card for a NRI.",
+    "input": "",
+    "response": "Credit Card requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Help me understand atm for a student.",
+    "input": "",
+    "response": "ATM requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Compare upi for a business owner.",
+    "input": "",
+    "response": "UPI requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "How can I manage neft for a NRI.",
+    "input": "I am a NRI. I recently needed assistance with neft and would like clear guidance before visiting the bank.",
+    "response": "NEFT requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Guide me through rtgs for a student.",
+    "input": "I am a student. I recently needed assistance with rtgs and would like clear guidance before visiting the bank.",
+    "response": "RTGS requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "Describe the process for imps for a business owner.",
+    "input": "",
+    "response": "IMPS requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  },
+  {
+    "instruction": "What are the benefits of cheque book for a NRI.",
+    "input": "",
+    "response": "Cheque Book requirements vary depending on the type of request, but the process normally begins with identity verification and submission of the required documents. Review eligibility, applicable fees, transaction limits, processing timelines, and any conditions before proceeding. Use only official banking channels, verify important details carefully, retain acknowledgements for future reference, and contact customer support if the request is delayed or an unexpected issue occurs."
+  }
+]
